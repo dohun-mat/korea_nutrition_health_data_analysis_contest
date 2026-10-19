@@ -1,7 +1,7 @@
 티스토리링크 - https://dohun-0714.tistory.com/20
 
 
-# healthnutrition
+# health nutrition (Machine Learning Project)
 
 수원대학교 국민건강영양데이터 분석 경진대회에 참여해 최우수상을 수상했습니다.
 
